@@ -1,0 +1,5 @@
+node_modules/*
+player/*
+moderator/*
+private/games/*
+private/current_game.json
